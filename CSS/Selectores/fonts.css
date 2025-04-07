@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "bungee";
+    src: url(/Fonts/Bungee_Tint/BungeeTint-Regular.ttf) format("Truetype");
+    font-weight: 800;
+    font-style: italic;
+    line-height: 2;
+    letter-spacing: 4px;
+}

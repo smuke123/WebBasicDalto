@@ -1,6 +1,21 @@
-h3 {
-    color: purple
+h1 {
+    text-align: center;
 }
-li {
-    color: blue
+
+h2 {
+    font-family: "bungee tint";
+    
+}
+
+p {
+    font-family: bungee; /* propiedad para cambiar la fuente de letra */
+    font-size: 20px; /* propiedad para manipular el tamaño de la letra */
+    font-weight: 600; /* propiedad para manipular el grosor de la letra */
+    font-style: italic; /* estilo de la/s palabra/s como cursiva, negrilla o subrayado */
+    text-align: justify, right; /* propiedad para alinear el texto hacia la derecha, centro o izquierda */
+    text-decoration: overline underline; /* para generar una linea sea abajo, en el medio o arriba de las oraciones */
+    line-height: normal; /* definir el tamaño del espaciado entre las oraciones, con normal dejaremos que la pagina decida */
+    letter-spacing: 5px; /* para definir el espacio entre letras u objetos */
+    text-transform: uppercase; /* Para transformar el texto en minuscula o mayuscula, o con capitalize poner la primera letra de cada palabra en mayuscula */
+
 }
